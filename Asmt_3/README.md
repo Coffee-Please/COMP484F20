@@ -1,11 +1,11 @@
 In this assignment, you’ll create a semantically correct HTML page that looks like the one below with JSBin or another text editor.
 
 
-> Add text to the page. (2 pt)
-> Apply the HTML tags to the text so the text will look like it does in the page above. Remember too that these tags should be semantically correct. Use correct Title, Metadata and Favicon for your page. The last two lines should be coded within a footer element, and everything else should be within a main element.  (2 pt)
-> Add the image for the speaker in a .jpg format, which is 260 pixels wide and save the image in a separate folder if you use a local text editor. If the image can not be displayed a text alternative should show like the screenshot below. (3 pt)
-> Use character entities or inline formatting tags to add the quotation marks and italics that this page requires. (1 pt)
-> ONLY HTML tags are allowed. NO CSS or other styling should be used.
+* Add text to the page. (2 pt)
+* Apply the HTML tags to the text so the text will look like it does in the page above. Remember too that these tags should be semantically correct. Use correct Title, Metadata and Favicon for your page. The last two lines should be coded within a footer element, and everything else should be within a main element.  (2 pt)
+* Add the image for the speaker in a .jpg format, which is 260 pixels wide and save the image in a separate folder if you use a local text editor. If the image can not be displayed a text alternative should show like the screenshot below. (3 pt)
+* Use character entities or inline formatting tags to add the quotation marks and italics that this page requires. (1 pt)
+* ONLY HTML tags are allowed. NO CSS or other styling should be used.
 
 Estimated time: 60-90 minutes.
 
