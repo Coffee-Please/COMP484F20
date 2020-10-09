@@ -1,0 +1,88 @@
+	@media only screen and (max-width: 850px){
+		body{font-size: 90%;}	
+	}
+
+	header{
+		border-bottom: 2px solid black;
+		margin-bottom: 1%;
+	}
+
+	#headerH1{
+		margin: 3% 0% 0%;
+		font-family: 'Helvetica';
+	}
+	
+	#headerH2{
+		margin: 0% 0% 3%;
+		font-family: 'Helvetica';
+	}
+
+	h2{
+		font-family: 'Helvetica';
+		margin: 0.5% 0% 0.5%;
+	}
+	
+	h3{
+		font-family: 'Helvetica';
+		margin: 0%;
+	} 
+	
+	h4{
+		font-family: 'Helvetica';
+	}
+	
+	li, p{
+		padding: 0.5%;
+	}
+
+	body{
+		height: 98%;
+		width: 98%;
+		max-width: initial;
+		font-family: 'Georgia', 'Helvetica';
+	}
+
+	section{
+		float: left;
+		margin-right: 2%;
+	}
+
+	main{
+		float:right;
+		width: 70%;
+		margin-right: 2%;
+	}
+
+	aside{
+		float: right;
+		height: 100%;
+		width: 50%;
+		text-align: center;
+	}
+	
+	article{
+		float: left;
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		margin-bottom: 1%;
+	}
+	
+	nav{
+		float: left;
+		margin-right: 10%;
+		margin-left: 2%;
+		width: 14%;
+		height: 100%;
+	}
+
+	img{
+		height: auto;
+		max-width: 100%;
+		padding: 2%;
+	}
+
+	footer{
+		clear: both;
+		border-top: 2px solid black;
+		text-align: center;
+	}
