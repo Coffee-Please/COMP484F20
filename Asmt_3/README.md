@@ -9,7 +9,7 @@ In this assignment, you’ll create a semantically correct HTML page that looks 
 * Use character entities or inline formatting tags to add the quotation marks and italics that this page requires. (1 pt)
 * ONLY HTML tags are allowed. NO CSS or other styling should be used.
 
-Estimated time: 60-90 minutes.
+*Estimated time: 60-90 minutes.*
 
  
 **Submission Instruction**
