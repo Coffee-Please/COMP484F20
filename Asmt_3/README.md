@@ -1,3 +1,5 @@
+**HTML PAGE**
+
 In this assignment, you’ll create a semantically correct HTML page that looks like the one below with JSBin or another text editor.
 
 
@@ -11,6 +13,7 @@ Estimated time: 60-90 minutes.
 
  
 **Submission Instruction**
+
 You will be graded according to each requirement. Be sure you have met all of the criteria. You will use JSBin to submit your assignment. Once you have modified your HTML page as directed above, lock a copy of it by using the Snapshot in Share menu of JSBin. This will provide a locked URL that represents your work.  Submit this URL for grading. Failure to adhere to this submission instruction will be grounds for rejection of work.
 
 ONLY HTML tags are allowed. NO CSS or other styling should be used.
