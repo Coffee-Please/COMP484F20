@@ -1,0 +1,71 @@
+<!-- 
+//*********************************************************************************
+// Priya Singh
+// COMP 484 | Fall 2020
+// Assignment 5 - Asmt5.html
+//*********************************************************************************
+ -->
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Staatliches">
+	<link rel="stylesheet" href="styles/Asmt5.css">
+	<script src="scripts/Asmt5.js"></script>
+	<title>COMP484</title>
+</head>
+
+<body>
+	<header>
+	</header>
+    <fieldset>
+	  <legend>Calculate</legend>
+	<main>
+		<form action="" method="post" id="theForm">
+
+				<p>Use this form to calculate the order total.</p>
+			  
+				<div>
+					<label for="quantity">Quantity</label>
+                    <br>
+					<input type="number" min="0" id="quantity" name="quantity" step="any"> 
+				</div>
+			  
+				<div>
+					<label for="price">Price Per Unit</label>
+                    <br>
+					<input type="number" min="0" id="price" name="price" step="any">
+				</div>
+			  
+				<div>
+					<label for="tax">Tax Rate (%)</label>
+                    <br>
+					<input type="number" min="0" max="100" id="tax" name="tax" step="any">
+				</div>
+			  
+				<div>
+					<label for="discount">Discount (%)</label>
+                    <br>
+					<input type="number" min="0" max="100" id="discount" name="discount" step="any">
+				</div>
+			  
+				<div>
+					<label for="total">Total</label>
+                    <br>
+					<input type="number" id="total" name="total" step="any" readonly>
+				</div>
+			  
+				<br>
+			  
+				<div>
+					<input type="submit" id="submit" value="Calculate">
+				</div>
+
+		</form>
+	</main>
+    </fieldset>
+	<footer>
+	</footer>
+</body>
+</html>
