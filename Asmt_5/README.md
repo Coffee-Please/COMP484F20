@@ -66,21 +66,21 @@ You will be graded according to each requirement. Be sure you have met all of th
 
 **Lab 5 Grading Rubrics**
 
-HTML elements properly added: 10 pts
+- HTML elements properly added: 10 pts
 
-CSS rules properly added according to CSUN Guideline: 20 pts
+- CSS rules properly added according to CSUN Guideline: 20 pts
 
-Use media selector: 10 pts
+- Use media selector: 10 pts
 
-Use Google Font API: 5 pts
+- Use Google Font API: 5 pts
 
-JavaScript variables are properly added: 10 pts
+- JavaScript variables are properly added: 10 pts
 
-Calculation functions are added: 10 pts
+- Calculation functions are added: 10 pts
 
-Code is tested and functions as shown in the screenshot: 10 pts
+- Code is tested and functions as shown in the screenshot: 10 pts
 
-Submit url of JSBin repository: 5 pts
+- Submit url of JSBin repository: 5 pts
 
 **Total Points: 80**
 
