@@ -1,4 +1,5 @@
 **Assignment 5: Calculator**
+
 For this assignment you will use the JSBin to create a HTML5 web form. 
 This webpage helps a customer to calculate the total amount. You will use your HTML, CSS and JavaScript skills to create a web form.
 
@@ -10,7 +11,6 @@ A “Fieldset” to the page;
 A “Legend” to the page;
 Multiple input elements with labels;
 A "Calculate" button below the last input;
- 
 
 **CSS**
 
@@ -29,7 +29,7 @@ When “calculate” button is clicked, assign the value of the total variable t
 Calculate the total again by using discount in percentage;
 Format the total to show 2 decimal places by using the toFixed() method. Assign the result to the total variable.
  
-`
+```
 // Function called when the form is submitted.
 
 // Function performs the calculation and returns false.
@@ -53,7 +53,7 @@ function init() {
 } // End of init() function.
 
 window.onload = init;
-`
+```
 
 
 Test your code and make sure that if you enter a quantity of 9, a price of 8.00, a tax rate of 9.8%, and a discount of 10% your form looks similar to the one shown below after click the “calculate” button:
