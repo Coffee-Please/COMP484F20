@@ -1,5 +1,5 @@
 # COMP484F20
-COMP 484 Web Engineering
+COMP 484 | Web Engineering
 
 Welcome to COMP 484/L. Web Engineering I and Lab (2/1)!
 
