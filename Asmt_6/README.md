@@ -12,7 +12,7 @@ that will result in aesthetically-pleasing or eye-catching listings in online se
 (including spaces) of a page's meta description tag. If a page's meta description tag exceeds 156 characters, Google will show as many whole 
 words as it can, and the rest are replaced with an ellipsis (...).
 
-![Example of a Google Search result]()
+![Example of a Google Search result](https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_6/img/Picture1.png)
 
 The URL of the page is
 
@@ -36,7 +36,7 @@ Martin, who presumably brought in Shufelt as a partner because he was a mining e
 Chief Greenleaf" alias L. Macklin.  March 3, 1933: Gold hunters are excavating directly over the Broadway tunnel, a long-gone downtown landmark 
 that was just north of the Hall of Justice.  Evidently they didn't question why the crews digging the tunnel didn't find anything.
 
-![Project Preview]()
+![Project Preview](https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_6/img/Picture2.png)
 
 You will be graded according to each items in both parts. Be sure you have met all of the criteria. You will use JSBin to submit your assignment.  Once you have modified your form as directed above, lock a copy of it by using the Share menu in JSBin. This will provide a locked URL that represents your work.  Submit this URL for grading.
 
