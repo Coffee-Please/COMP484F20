@@ -63,7 +63,9 @@ In this step, you’ll add a media query to the page so it provides for tablets 
 5. Add CSS code developed in this section to the JSBin CSS tab and comment the code out after
 this line:
 
-`/* print.css */`
+```css
+/* print.css */
+```
 
 ![Print Page Preview](https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_4/img/Picture1.png)
 
