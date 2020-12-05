@@ -30,7 +30,7 @@ A form with these components,
 - Calculate the total again by using discount in percentage;
 - Format the total to show 2 decimal places by using the toFixed() method. Assign the result to the total variable.
  
-```php
+```javascript
 // Function called when the form is submitted.
 
 // Function performs the calculation and returns false.
