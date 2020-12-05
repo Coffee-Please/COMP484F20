@@ -20,7 +20,7 @@ Once you have installed XAMPP, you can test that installation by starting and st
 Open a web browser and enter this URL to test the server as Figure 1 shows, http://localhost (Links to an external site.)
 
  
-![Picture1.png]()
+![Picture1.png](https://github.com/Coffee-Please/COMP484F20/Asmt_7/img/Picture1.png)
 
 Figure 1. Verify XAMPP
 
@@ -35,7 +35,7 @@ Finally, create a PHP page to accept data from the front end and echo “Total e
 
 First, you can use either HTML+JavaScript or PHP to implement a page like this,
  
-![Picture2.png]()
+![Picture2.png](https://github.com/Coffee-Please/COMP484F20/Asmt_7/img/Picture2.png)
 
 Figure 2. Front End
 
