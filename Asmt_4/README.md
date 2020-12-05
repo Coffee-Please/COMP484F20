@@ -3,7 +3,7 @@
 Use the following HTML structure to create a page. You can fill up the page with ANY content that you like. But you need to maintain the HTML structure and use all HTML tags in this structure. You are allowed to add more HTML tags.
 
  
-```
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,6 +65,7 @@ this line:
 
 `/* print.css */`
 
+![Print Page Preview](https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_4/img/Picture1.png)
 
 **I would also encourage you to do these two steps:**
 
