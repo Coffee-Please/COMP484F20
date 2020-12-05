@@ -13,6 +13,8 @@ In this assignment, you’ll create a semantically correct HTML page that looks 
 *Estimated time: 60-90 minutes.*
 
 ![Alt Text Example](https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_3/img/Picture2.png)
+
+https://github.com/Coffee-Please/COMP484F20/raw/main/Asmt_3/img/sorkin_desk260.jpg
  
 **Submission Instruction**
 
