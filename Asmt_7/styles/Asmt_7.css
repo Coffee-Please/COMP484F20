@@ -2,7 +2,7 @@
 //*********************************************************************************
 // Priya Singh
 // COMP 484 | Fall 2020
-// Assignment 7 - Asmt_7.css
+// Assignment 7 - styles/Asmt_7.css
 //*********************************************************************************
 */
 
@@ -32,6 +32,11 @@ img {
 fieldset{
    width: 50%;   
    border: 1px solid #bec6c3;
+}
+
+a {
+	text-decoration: underline;
+	color: blue;
 }
 
 input{
