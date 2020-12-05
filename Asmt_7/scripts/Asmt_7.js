@@ -1,7 +1,7 @@
 //*********************************************************************************
 // Priya Singh
 // COMP 484 | Fall 2020
-// Assignment 7 - Asmt_7.js
+// Assignment 7 - scripts/Asmt_7.js
 //*********************************************************************************
 
 // Create a global array to store all employees as you add them. 
@@ -63,22 +63,9 @@ function addEmployee() {
       "<p>Department: " + employee.department + "</p>" +
       "<p>Employee ID: " + employee.employeeId + "</p>" +
       "<p>Hire Date: " + employee.hireDate + "</p>";
-	  
-	// Display the total number of employees
-	//Using AJAX and PHP
-	$.ajax({
-		url: 'scripts/Asmt_7.php',
-		type: 'post',
-		data: {
-			employees: employees
-		},
-		success: function(data) {
-			$('#totalEmployees').html(data);
-		}
-	});
 	
-	// Using JavaScript
-    // document.getElementById('totalEmployees').innerHTML = "<p>Total Employees: " + employees.length + "</p>";
+	// Using JavaScript to show number of employees added
+    document.getElementById('totalEmployees').innerHTML = "<p>Total Employees: " + employees.length + "</p>";
 	  
 	// Add a browser icon detected to show the browser the user is currently using.
     //Browsers to detect
@@ -137,7 +124,16 @@ function addEmployee() {
 	
 	// Function adds employee and returns false.
 	return false;   
-} // End of construct() function.
+} // end construct() function.
+
+function sendPHP() {
+	'use strict';
+	
+	// Send number of employees to PHP page
+	window.open("scripts/Asmt_7.php?totalEmployees=" + employees.length, "_self");
+	
+	return false;  
+} // end sendPHP() function
 
 function init() {
             'use strict';
