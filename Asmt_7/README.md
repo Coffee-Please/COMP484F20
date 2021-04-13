@@ -1,4 +1,4 @@
-**Add an Employee**
+# Assignment 7: Add an Employee
 
 This lab will guide you through how to set up the server end for further development in this class.
 
