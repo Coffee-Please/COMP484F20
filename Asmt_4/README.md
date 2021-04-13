@@ -1,4 +1,4 @@
-**Responsive Web Design**
+# Assignment 4: Responsive Web Design
 
 Use the following HTML structure to create a page. You can fill up the page with ANY content that you like. But you need to maintain the HTML structure and use all HTML tags in this structure. You are allowed to add more HTML tags.
 
