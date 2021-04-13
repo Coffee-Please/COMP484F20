@@ -1,4 +1,4 @@
-**HTML PAGE**
+# Assignment 3: HTML PAGE
 
 In this assignment, you’ll create a semantically correct HTML page that looks like the one below with JSBin or another text editor.
 
