@@ -1,4 +1,4 @@
-**Text Limiter**
+# Assignment 6: Text Limiter
 
 In this lab, you will be creating a HTML5 web form. By the time you are reading this manual, you already know HTML and CSS and JavaScript. 
 The forms are based upon the one you built in class. Change some existing HTML elements add new stuff to make your page look like the one 
